@@ -1,1 +1,2 @@
-# Credit_Risk_Analysis_Model
+#Analysis
+Purpose of this model was to calculate risk of peoples credit for a lending company. One undersampling and two oversampling test models were completed. The best result was the Random Classifer as it produced greater accuracy scores, although did not provide best results for risk. Another model of AdaBoost Classifer was the best model for the lending company to use as it was able to better catch the risk challenge. 
